@@ -37,3 +37,10 @@ Minha planilha automatiza cálculos para que você possa:
 - **Calcular o patrimônio acumulado** ao final do período desejado.
 - **Estimar o valor dos dividendos mensais** esperados.
 - **Definir metas de investimento** e visualizar o tempo necessário para alcançá-las.
+
+---
+
+## Ferramenta 
+
+![Capturadetela2025-06-18_140301](https://github.com/user-attachments/assets/728196c4-ed33-4272-8b49-49a56a76e322)
+
